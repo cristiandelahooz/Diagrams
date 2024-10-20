@@ -1,2 +1,2 @@
 # Diagrams
-This's a simple host for my diagrams
+> ### **This's a simple host for my diagrams**
